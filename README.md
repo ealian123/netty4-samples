@@ -3,6 +3,8 @@
 ### 京东购买链接：[https://item.jd.com/12829724.html](https://item.jd.com/12829724.html)
 ### 当当购买链接：[http://product.dangdang.com/28528192.html](http://product.dangdang.com/28528192.html)
 
+PDF已归档，见Ealian百度网盘：netty文件夹下 -> Netty 4核心原理与手写RPC框架实战@www.cmsblogs.cn.pdf
+
 在互联网分布式系统的推动下，Netty是作为一个能够支撑高性能高并发的底层网络通信框架而存在。Netty底层是基于Java NIO来实现的，对NIO进行了非常多的优化，因此深受广大开发者尤其是一线大厂开发者的青睐。
 
 作为一个Java开发人员，如果没有研究过Netty，那么你对Java语言的使用和理解仅仅停留在表面，会点SSH，写几个MVC，访问数据库和缓存，这些只是初级Java程序员干的事。如果你要进阶，想了解Java服务器的深层高阶知识，Netty是一个必须要跨越的门槛。学会了Netty，你可以实现自己的HTTP服务器、FTP服务器、UDP服务器、RPC服务器、WebSocket服务器、Redis的Proxy服务器、MySQL的Proxy服务器等。
