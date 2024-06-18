@@ -3,7 +3,7 @@
 ### 京东购买链接：[https://item.jd.com/12829724.html](https://item.jd.com/12829724.html)
 ### 当当购买链接：[http://product.dangdang.com/28528192.html](http://product.dangdang.com/28528192.html)
 
-PDF已归档，见Ealian百度网盘：netty文件夹下 -> Netty 4核心原理与手写RPC框架实战@www.cmsblogs.cn.pdf
+PDF已归档，见Ealian百度网盘：netty文件夹下 -> Netty 4核心原理与手写RPC框架实战.pdf
 
 在互联网分布式系统的推动下，Netty是作为一个能够支撑高性能高并发的底层网络通信框架而存在。Netty底层是基于Java NIO来实现的，对NIO进行了非常多的优化，因此深受广大开发者尤其是一线大厂开发者的青睐。
 
